@@ -1,0 +1,2 @@
+# CCToken
+CCTOKEN
